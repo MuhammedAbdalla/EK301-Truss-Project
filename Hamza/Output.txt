@@ -1,0 +1,26 @@
+EK301, Section A3, Group n: Hamza B., Zakir K., David O., 12/2/2021
+Load: 41.73oz -- DEADLOAD + 32 OZ LOAD @ 15 IN
+Member forces in oz:
+m1	-0.000	(C)
+m2	13.378	(T)
+m3	14.185	(T)
+m4	0.000	(Z)
+m5	-19.867	(C)
+m6	17.619	(T)
+m7	-10.354	(C)
+m8	11.527	(T)
+m9	15.588	(T)
+m10	11.149	(T)
+m11	-11.079	(C)
+m12	18.682	(T)
+m13	-21.020	(C)
+m14	-15.408	(C)
+m15	-21.978	(C)
+m16	-22.388	(C)
+m17	-16.337	(C)
+Reaction forces in oz:
+Sx1: 0.000
+Sy1: 20.290
+Sy2: 21.443
+Cost of truss: $249.74
+Theoretical max load/cost ratio in oz/$: 0.1671
